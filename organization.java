@@ -22,5 +22,10 @@ public class Organization{
 	
    public void setCode(String code){
    	this.code = code;
+   
+   }
+
+   public int getAge(){
+   	return age;
    }
 }
