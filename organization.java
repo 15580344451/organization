@@ -1,7 +1,7 @@
 public class Organization{
 
   private String name;
-  private String code;
+  private String code;   //edit by fan
   private int age;    //edit by amor
   
   
