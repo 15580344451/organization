@@ -6,7 +6,7 @@ public class Organization{
   
   
    public String getName(){
-
+      return name;
    }
 
 
