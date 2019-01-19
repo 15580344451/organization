@@ -2,7 +2,7 @@ public class Organization{
 
   private String name;
   private String code;
-  private int age;
+  private int age;    //edit by amor
   
   
    public String getName(){
