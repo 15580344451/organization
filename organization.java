@@ -18,6 +18,11 @@ public class Organization{
    public String getCode(){
    	return code;
    }
+	
+   public void setAge( int age){
+
+	this.age = age;
+   }
    
 	
    public void setCode(String code){
