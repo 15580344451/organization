@@ -5,7 +5,9 @@ public class Organization{
   private int age;
   
   
+   public String getName(){
 
+   }
 
 
 }
